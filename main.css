@@ -31,7 +31,7 @@
 /* end general rules  */
 /* start main  */
 .main{
-    background-image: url("../img/dark-blue-abstract-background.jpg");
+    background-image: url("https://musabshifu.github.io/projects/dark-blue-abstract-background.jpg");
     height: calc(100vh - 94.65px);
     background-size: cover;
     position: relative;
